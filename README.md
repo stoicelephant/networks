@@ -14,3 +14,6 @@ Primary School - [Primary School Website](https://journals.plos.org/plosone/arti
 Science Gallery - [Science Gallery Website](http://www.sociopatterns.org/datasets/infectious-sociopatterns-dynamic-contact-networks/), [Science Gallery Paper](https://arxiv.org/pdf/1006.1260)
 
 Conference - [Conference Website](http://www.sociopatterns.org/datasets/hypertext-2009-dynamic-contact-network/), [Conference Paper](https://arxiv.org/pdf/1006.1260)
+
+#Data Description 
+In both networks a The system was tuned so that whenever two individuals wearing the RFID tags were in face-to-face proximity(<1.5m) the probability to detect such a proximity event over an time interval of 20 seconds was larger than 99%.  
