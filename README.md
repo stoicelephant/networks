@@ -1,4 +1,4 @@
-# networks
+# networks - view the [slideshow](https://docs.google.com/presentation/d/1PdZUbLTE3MsyeTTcMbhesMO3MR6tzr06LrjzuzGi0Sc/edit?usp=sharing)
 here are the associated papers and website links with each of the projects - all of the networks were sourced from [sociopatterns](http://www.sociopatterns.org/)
 ---------------------------------------------------------------------------------------------------
 Workplace - [Workplace Website](http://www.sociopatterns.org/datasets/contacts-in-a-workplace/), [Workplace Paper](https://www.cambridge.org/core/journals/network-science/article/abs/data-on-facetoface-contacts-in-an-office-building-suggest-a-lowcost-vaccination-strategy-based-on-community-linkers/18AB49AB4F2AEA33CE7501F06ADBC8E8)
