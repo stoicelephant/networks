@@ -17,3 +17,5 @@ Conference - [Conference Website](http://www.sociopatterns.org/datasets/hypertex
 
 #Data Description 
 In both networks a The system was tuned so that whenever two individuals wearing the RFID tags were in face-to-face proximity(<1.5m) the probability to detect such a proximity event over an time interval of 20 seconds was larger than 99%.  
+
+Most of the data follows the general format node_1, node_2, Date_time. Where the time interval for which the contact was active is [ t – 20s, t ] (i.e for Date_time of July, 3rd 05:24:20, this represents the time interval from 05:24:00 - 05:24:20) 
