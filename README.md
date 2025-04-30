@@ -3,7 +3,7 @@ here are the associated papers and website links with each of the projects - all
 ---------------------------------------------------------------------------------------------------
 Workplace - [Workplace Website](http://www.sociopatterns.org/datasets/contacts-in-a-workplace/), [Workplace Paper](https://www.cambridge.org/core/journals/network-science/article/abs/data-on-facetoface-contacts-in-an-office-building-suggest-a-lowcost-vaccination-strategy-based-on-community-linkers/18AB49AB4F2AEA33CE7501F06ADBC8E8)
 
-Workplace II - [Workplace II Website](http://www.sociopatterns.org/datasets/test/), [Workplace II Paper]([http://www.sociopatterns.org/publications/can-co-location-be-used-as-a-proxy-for-face-to-face-contacts/](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0140-1))
+Workplace II - [Workplace II Website](http://www.sociopatterns.org/datasets/test/), [Workplace II Paper](http://www.sociopatterns.org/publications/can-co-location-be-used-as-a-proxy-for-face-to-face-contacts/)(https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0140-1)
 
 Hospital - [Hospital Website](http://www.sociopatterns.org/datasets/hospital-ward-dynamic-contact-network/), [Hospital Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073970)
 
