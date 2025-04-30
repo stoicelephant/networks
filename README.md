@@ -11,6 +11,6 @@ High School - [High School Website](http://www.sociopatterns.org/datasets/high-s
 
 Primary School - [Primary School Website](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023176), [Primary School Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0073970)
 
-Science Gallary - [Science Gallary Website](http://www.sociopatterns.org/datasets/infectious-sociopatterns-dynamic-contact-networks/), [Science Gallary Paper](https://arxiv.org/pdf/1006.1260)
+Science Gallery - [Science Gallery Website](http://www.sociopatterns.org/datasets/infectious-sociopatterns-dynamic-contact-networks/), [Science Gallery Paper](https://arxiv.org/pdf/1006.1260)
 
 Conference - [Conference Website](http://www.sociopatterns.org/datasets/hypertext-2009-dynamic-contact-network/), [Conference Paper](https://arxiv.org/pdf/1006.1260)
