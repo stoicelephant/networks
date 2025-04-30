@@ -81,7 +81,7 @@ No information on contacts taking place outside the school or during sports acti
 
 ### Science Gallery:
 
-the event was the INFECTIOUS exhibition held at the Science Gallery in Dublin, Ireland, from April 17th to July 17th, 2009
+the event was the INFECTIOUS exhibition held at the Science Gallery in Dublin, Ireland, from April 17th to July 17th, 2009. about 100% of participants were tracked.
 
 Additional Notes: 
 
@@ -90,7 +90,7 @@ Network may not be appropriate since the contacts are different individuals ever
 ### Conference:
 
 event was the ACM Hypertext 2009 conference [34] hosted by the Institute for Scientific Interchange Foundation
-in Turin, Italy, from June 29th to July 1st, 2009.
+in Turin, Italy, from June 29th to July 1st, 2009. about 75% of the participants volunteered to being tracked. 
 
 Additional Notes: 
 
